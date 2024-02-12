@@ -1,7 +1,7 @@
 ﻿using Microsoft.Maui.Controls.Xaml;
 using System.Collections.ObjectModel;
 using TarefasApp.Models;
-//Stefany Tam; Eduarda Vitória
+//Roberto Junior
 namespace TarefasApp;
 
 public partial class MainPage : ContentPage
