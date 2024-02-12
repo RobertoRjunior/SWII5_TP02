@@ -1,5 +1,5 @@
 using Microsoft.Maui.Platform;
-//Stefany Tam; Eduarda Vitória
+//Roberto Junior
 namespace TarefasApp;
 
 public partial class EditPopupPage : ContentPage
