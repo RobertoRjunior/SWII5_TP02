@@ -1,5 +1,5 @@
 ﻿using Microsoft.Extensions.Logging;
-//Stefany Tam; Eduarda Vitória
+//Roberto Junior
 namespace TarefasApp;
 
 public static class MauiProgram
