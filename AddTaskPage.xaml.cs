@@ -1,6 +1,6 @@
 using Microsoft.Maui.Controls;
 using System.Collections.ObjectModel;
-//Stefany Tam; Eduarda Vitória
+//Roberto Junior
 namespace TarefasApp
 {
     public partial class AddTaskPage : ContentPage
@@ -24,10 +24,10 @@ namespace TarefasApp
 
             Models.Task newTask = new Models.Task(++count, title, description, DateTime.Now, priority);
 
-            // Adicione a nova tarefa à lista
+            // Adicione a nova tarefa Ã  lista
             tasks.Add(newTask);
 
-            // Volte para a página anterior
+            // Volte para a pÃ¡gina anterior
             Navigation.PopAsync();
         }
     }
