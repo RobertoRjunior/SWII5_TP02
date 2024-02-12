@@ -2,7 +2,7 @@ using Microsoft.Maui.Platform;
 using System.Reflection.Metadata;
 using System.Threading.Tasks;
 using TarefasApp.Models;
-//Stefany Tam; Eduarda Vitória
+//Roberto junior
 namespace TarefasApp;
 
 public partial class DetailTask : ContentPage
